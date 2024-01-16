@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3067148-61aa-4169-9d80-b2e6e33cf55f">
+  <producedTypes>
+    <objectType typeId="2b524891-6478-4db2-b534-916f3791d844" valueTypeId="145057ce-f7a8-4872-86c1-c0cbef482b64"/>
+    <refType typeId="f35d9306-42ee-49e4-a4c5-c916d8fe227d" valueTypeId="1314484f-e6e5-4195-be5d-e175bfb338e7"/>
+    <selectionType typeId="02bc7c6a-8207-44ba-bf92-8e54799183bd" valueTypeId="7cd50a68-d4ff-46f2-8295-c5d52e4259de"/>
+    <listType typeId="3c08ac4b-0d83-46ce-a5f3-019b3686d6e1" valueTypeId="0a47b02a-020d-4747-8579-55646b88ad6e"/>
+    <managerType typeId="79748828-a71d-45c4-97f0-2d4159702395" valueTypeId="6367f359-bb2f-4077-9d5c-2880b9589dee"/>
+  </producedTypes>
+  <name>ФайлыЧата</name>
+  <synonym>
+    <key>ru</key>
+    <value>Файлы чата</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ФайлыЧата.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ФайлыЧата.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

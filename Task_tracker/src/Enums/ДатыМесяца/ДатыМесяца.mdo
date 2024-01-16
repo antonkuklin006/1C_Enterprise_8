@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2d8f906a-7383-4510-a33a-0cb4d1a8f516">
+  <producedTypes>
+    <refType typeId="96cc63a0-4dc8-457e-8230-cb34ceeabf58" valueTypeId="7acb7425-dc9b-46aa-bb56-2a8ab5ba41fa"/>
+    <listType typeId="9735dddd-fb8d-45bf-af3a-3cb888cb21d5" valueTypeId="a513f38b-56e8-4b2a-8df1-9f06c9872ae9"/>
+    <managerType typeId="3adb1b5e-8bf6-42bb-af58-9ba6b3c50a39" valueTypeId="c6e3390a-7abd-4d9f-b5fa-3ae044a0bed0"/>
+  </producedTypes>
+  <name>ДатыМесяца</name>
+  <synonym>
+    <key>ru</key>
+    <value>Даты месяца</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

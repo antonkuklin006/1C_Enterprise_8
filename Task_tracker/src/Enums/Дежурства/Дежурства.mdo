@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8743db3f-fc0e-4d01-a35b-5092f835bfe8">
+  <producedTypes>
+    <refType typeId="c4808a28-a054-44ff-aabe-26569fbd517d" valueTypeId="4fdb93b3-9678-43cf-a768-e568a3578370"/>
+    <listType typeId="cbc94aba-1b22-4779-ba22-88ac07c84118" valueTypeId="c5758932-974b-4bf0-9de2-18bd0e7c4ebb"/>
+    <managerType typeId="c925bfe1-19c8-4b65-98de-f2afd62bc13d" valueTypeId="700c5c92-abd6-4695-971f-e74d8193eac4"/>
+  </producedTypes>
+  <name>Дежурства</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дежурства</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

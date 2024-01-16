@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d064896e-3a69-4e5e-a834-9d08625362ae">
+  <producedTypes>
+    <refType typeId="e1c77d53-4a21-4249-b3ad-86efd4d16132" valueTypeId="2ed659d4-4548-4188-9674-c62bcf479435"/>
+    <listType typeId="1df0a287-f54a-4863-8670-f9813dffdccc" valueTypeId="93ffc6fd-13d4-45c1-a0b4-d9eadc1715b1"/>
+    <managerType typeId="08c1257f-601d-4853-8cfb-f3075dd45dfa" valueTypeId="0b744234-873a-4759-8944-a40aadda631b"/>
+  </producedTypes>
+  <name>ФильтрыДляГрафика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Фильтры для графика</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

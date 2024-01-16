@@ -38,6 +38,36 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.HeadHunter</subsystems>
+  <subsystems>Subsystem.Planing</subsystems>
+  <subsystems>Subsystem.Task</subsystems>
+  <filterCriteria>FilterCriterion.СвязныеАббитуриенты</filterCriteria>
+  <commonForms>CommonForm.КалендарьМероприятий</commonForms>
+  <commonForms>CommonForm.ФормаДанныхВерсииИсторииДанных</commonForms>
+  <commonForms>CommonForm.ФормаРазличийВерсийИсторииДанных</commonForms>
+  <catalogs>Catalog.График</catalogs>
+  <catalogs>Catalog.МероприятияПредприятия</catalogs>
+  <catalogs>Catalog.ОтделРазработки</catalogs>
+  <catalogs>Catalog.ОтделыДляПланировщика</catalogs>
+  <catalogs>Catalog.Проекты</catalogs>
+  <catalogs>Catalog.РейтингСотрудников</catalogs>
+  <catalogs>Catalog.РолиВМероприятиях</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Спирнты</catalogs>
+  <catalogs>Catalog.Файлы</catalogs>
+  <catalogs>Catalog.ФайлыЗадач</catalogs>
+  <catalogs>Catalog.ФайлыПроектов</catalogs>
+  <catalogs>Catalog.ФайлыЧата</catalogs>
+  <documents>Document.Мероприятие</documents>
+  <enums>Enum.ВидыГрафика</enums>
+  <enums>Enum.ДатыМесяца</enums>
+  <enums>Enum.Дежурства</enums>
+  <enums>Enum.Месяц</enums>
+  <enums>Enum.Отдел</enums>
+  <enums>Enum.Статус</enums>
+  <enums>Enum.СтатусЗадачи</enums>
+  <enums>Enum.ФильтрыДляГрафика</enums>
+  <enums>Enum.ЭтапыОтбора</enums>
+  <reports>Report.Задачи</reports>
   <tasks>Task.Задача</tasks>
 </mdclass:Configuration>
