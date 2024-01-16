@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a3090d0a-30ae-426e-846e-1533e5723a52">
+  <producedTypes>
+    <refType typeId="2a404cd3-d6a0-48e2-aa0d-b75321f09f47" valueTypeId="bc82f40d-bc25-4aca-ba68-df1cf18c0f4c"/>
+    <listType typeId="9d317202-e12f-4d13-8eeb-b82eca48f584" valueTypeId="0edbc05a-17b5-43f5-a01f-35a2461d3927"/>
+    <managerType typeId="bd3f5e4d-bffd-40d6-9d6f-7f2c2ba15cae" valueTypeId="1eca7234-c306-41f7-ba2a-9c4479326686"/>
+  </producedTypes>
+  <name>ВидыГрафика</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды графика</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

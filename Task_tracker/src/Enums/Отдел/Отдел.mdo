@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a1a654e2-18b9-48b0-bcfb-0df45dbcb98b">
+  <producedTypes>
+    <refType typeId="0db5da27-c6bb-4ab4-b717-5ca10cafb531" valueTypeId="2bad17fe-4440-40b5-b726-2fe55df4aa1d"/>
+    <listType typeId="c9876b50-bae8-490e-969a-92239bf8eccd" valueTypeId="14823386-5adf-4fe0-9fbc-fc510b8538e4"/>
+    <managerType typeId="e7240fbd-98d3-470b-bd6d-61152101e4dd" valueTypeId="17148945-e02c-418b-a7d3-c8e644fd22e2"/>
+  </producedTypes>
+  <name>Отдел</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отдел</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

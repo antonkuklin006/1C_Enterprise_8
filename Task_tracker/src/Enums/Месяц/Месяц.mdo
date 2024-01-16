@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fad35039-6c30-46b1-894f-6077d8c783f8">
+  <producedTypes>
+    <refType typeId="2da506de-5f05-4073-8bbc-db78a9362e13" valueTypeId="f48060b4-0b06-47f2-b1c1-451854e78892"/>
+    <listType typeId="4895c364-4484-4c0a-af16-2533492aea70" valueTypeId="f820b28e-a820-448d-a9fd-c044313835ca"/>
+    <managerType typeId="c8ff0874-d9b4-4a34-a518-46bfd9246751" valueTypeId="56c4e077-65d9-45df-95be-ef9a9267b60e"/>
+  </producedTypes>
+  <name>Месяц</name>
+  <synonym>
+    <key>ru</key>
+    <value>Месяц</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
