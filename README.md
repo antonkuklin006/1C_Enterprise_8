@@ -16,5 +16,5 @@
 <li> <a class="link-7" href="#">Бизнес-процессы</a> </li>
 
 <h2> Твои основные вопросы: </h2> 
-<li> <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Маппинг процессов</a> </li>
+<li> <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты?</a> </li>
+<li> <a class="link-7" href="https://clck.ru/382MwW">А что с бизнес-процессом?</a> </li>
