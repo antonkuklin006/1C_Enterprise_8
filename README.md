@@ -10,7 +10,7 @@
     <li> <a class="link-5" href="https://clck.ru/382LiG">Шаблоны</a> </li>
 </h3>
 
-<h2> Что должен понимать </h2> 
+<h2> Что должен понимать: </h2> 
 <li> <a class="link-4" href="https://clck.ru/382KNk">Стэк</a> </li>
 <li> <a class="link-6" href="#">CI\CD</a> </li>
 <li> <a class="link-7" href="#">Клиент-серверная архетектура</a> </li>
