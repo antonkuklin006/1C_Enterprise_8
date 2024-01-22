@@ -3,4 +3,5 @@
 # Стэк https://clck.ru/382KNk
 # Шаблоны для EDT https://clck.ru/382LiG
 # [Вопросы для проекта по разработке ПО.pdf](https://github.com/antonkuklin006/1C_Task_tracker/files/13950887/default.pdf)
+# Вопросы по оценке ‐ доработке бизнес‐процесса ПО https://clck.ru/382MwW
 
