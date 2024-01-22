@@ -12,9 +12,9 @@
 </h3>
 
 <h2> Что должен понимать </h2> 
-<li> <a class="link-6" href="https://clck.ru/382NPz">CI\CD</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Клиент-серверная архетектура</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Бизнес-процессы</a> </li>
+<li> <a class="link-6" href="#">CI\CD</a> </li>
+<li> <a class="link-7" href="#">Клиент-серверная архетектура</a> </li>
+<li> <a class="link-7" href="#">Бизнес-процессы</a> </li>
 
 <h2> Твои основные вопросы: </h2> 
 <li> <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты</a> </li>
