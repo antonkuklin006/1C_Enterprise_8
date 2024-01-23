@@ -12,7 +12,7 @@
 ## Твои основные дашборды на этапе тестирования, на стороне заказчика:
 - [Help desk](https://github.com/users/antonkuklin006/projects/2/views/7)
 - [Ticket system](https://github.com/users/antonkuklin006/projects/2/views/8)
-- [Bug tracker]([https://clck.ru/382Qo3](https://github.com/users/antonkuklin006/projects/2/views/9))
+- [Bug tracker](https://github.com/users/antonkuklin006/projects/2/views/9)
 
 ## Что должен понимать:
 - [Стэк](https://clck.ru/382KNk)
