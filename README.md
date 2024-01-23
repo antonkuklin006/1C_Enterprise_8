@@ -2,11 +2,18 @@
 <h4> Проектный менеджер играющий отдельно от команды - обречен, на провал. Как и его проекты....
 ©Джон Дорр </h4>
 
-<h2> Твои основные дашборды: </h2> 
+<h2> Твои основные дашборды на этапе разработки: </h2> 
 <h3> 
     <li> <a class="link-1" href="https://clck.ru/382PaF ">Планирование этапов</a> </li>
     <li> <a class="link-2" href="https://clck.ru/382PsR">Задачи</a> </li>
     <li> <a class="link-3" href="https://clck.ru/382Qo3">Дорожная карта</a> </li>
+</h3>
+
+<h2> Твои основные дашборды на этапе тестирования, на стороне заказчика: </h2> 
+<h3> 
+    <li> <a class="link-1" href="https://clck.ru/382PaF ">Help desk</a> </li>
+    <li> <a class="link-2" href="https://clck.ru/382PsR"> Ticket system </a> </li>
+    <li> <a class="link-3" href="https://clck.ru/382Qo3">Bug tracker</a> </li>
 </h3>
 
 <h2> Что должен понимать: </h2> 
