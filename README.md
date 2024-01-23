@@ -39,8 +39,8 @@
 - [Project Closeout Report (Отчет о завершении проекта)](https://clck.ru/382MwW)
 
 ## Твои основные вопросы: 
-[]() <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты?</a> </li>
-[]() <a class="link-7" href="https://clck.ru/382MwW">А что с бизнес-процессом?</a> </li>
+- [Важность и приоритеты?](https://clck.ru/382NPz)
+- [А что с бизнес-процессом?](https://clck.ru/382MwW)
 
 ```mermaid
 sequenceDiagram
