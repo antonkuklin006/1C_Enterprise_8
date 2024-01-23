@@ -1,22 +1,20 @@
-<h1> Этот репозиторий преднозначен для руководителей проектов IT. </h1>
-<h4> Проектный менеджер играющий отдельно от команды - обречен, на провал. Как и его проекты....
+# Этот репозиторий преднозначен для руководителей проектов IT. 
+#### Проектный менеджер играющий отдельно от команды - обречен, на провал. Как и его проекты....
 ©Джон Дорр </h4>
 
-<h2> Твои основные дашборды на этапе разработки: </h2> 
-<h3> 
-    <li> <a class="link-1" href="https://clck.ru/382PaF ">Планирование этапов</a> </li>
-    <li> <a class="link-2" href="https://clck.ru/382PsR">Задачи</a> </li>
-    <li> <a class="link-3" href="https://clck.ru/382Qo3">Дорожная карта</a> </li>
-</h3>
+## Твои основные дашборды на этапе разработки:
+- [Планирование этапов](https://clck.ru/382PaF)
+- [Задачи](https://clck.ru/382PsR)
+- [Дорожная карта](https://clck.ru/382Qo3)
 
-<h2> Твои основные дашборды на этапе тестирования, на стороне заказчика: </h2> 
-<h3> 
-    <li> <a class="link-1" href="https://github.com/users/antonkuklin006/projects/2/views/7">Help desk</a> </li>
-    <li> <a class="link-2" href="https://github.com/users/antonkuklin006/projects/2/views/8"> Ticket system </a> </li>
-    <li> <a class="link-3" href="https://github.com/users/antonkuklin006/projects/2/views/9">Bug tracker</a> </li>
-</h3>
 
-<h2> Что должен понимать: </h2> 
+
+## Твои основные дашборды на этапе тестирования, на стороне заказчика:
+- [Help desk](https://github.com/users/antonkuklin006/projects/2/views/7)
+- [Ticket system ](https://github.com/users/antonkuklin006/projects/2/views/8)
+- [Bug tracker]([https://clck.ru/382Qo3](https://github.com/users/antonkuklin006/projects/2/views/9))
+
+## Что должен понимать:
 <li> <a class="link-4" href="https://clck.ru/382KNk">Стэк</a> </li>
 <li> <a class="link-6" href="#">CI\CD</a> </li>
 <li> <a class="link-7" href="#">Клиент-серверная архетектура</a> </li>
