@@ -11,7 +11,7 @@
 
 ## Твои основные дашборды на этапе тестирования, на стороне заказчика:
 - [Help desk](https://github.com/users/antonkuklin006/projects/2/views/7)
-- [Ticket system ](https://github.com/users/antonkuklin006/projects/2/views/8)
+- [Ticket system](https://github.com/users/antonkuklin006/projects/2/views/8)
 - [Bug tracker]([https://clck.ru/382Qo3](https://github.com/users/antonkuklin006/projects/2/views/9))
 
 ## Что должен понимать:
@@ -20,27 +20,27 @@
 - [Клиент-серверная архетектура](https://clck.ru/382Qo3)
 - [Бизнес-процессы](https://clck.ru/382Qo3)
 
-## Документация (может изменяться: количеству, содержанию) 
-<li> <a class="link-6" href="https://clck.ru/382NPz">Project Charter (Устав проекта)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Project Management Plan (План управления проектом)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Work Breakdown Structure (Разработка структуры проекта)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Risk Register (Реестр рисков)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Communication Plan (План коммуникаций)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Resource Management Plan (План управления ресурсами)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Stakeholder Register (Реестр заинтересованных сторон)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Change Management Plan (План управления изменениями)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Cost Management Plan (План управления затратами)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Scope Management Plan (План управления объемом работ)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Stakeholder Communication Plan (План коммуникации с заинтересованными сторонами)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Performance Reports (Отчеты о выполнении)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Risk Management Plan (План управления рисками)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Human Resource Management Plan (План управления человеческими ресурсами)</a> </li>
-<li> <a class="link-6" href="https://clck.ru/382NPz">Project Archive (Архив проекта)</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">Project Closeout Report (Отчет о завершении проекта)</a> </li>
+## Документация (может изменяться: количеству, содержанию): 
+- [Project Charter (Устав проекта)](https://clck.ru/382NPz)
+- [Project Management Plan (План управления проектом)](https://clck.ru/382MwW)
+- [Work Breakdown Structure (Разработка структуры проекта)](https://clck.ru/382NPz)
+- [Risk Register (Реестр рисков)](https://clck.ru/382MwW)
+- [Communication Plan (План коммуникаций)](https://clck.ru/382NPz)
+- [Resource Management Plan (План управления ресурсами)](https://clck.ru/382MwW)
+- [Stakeholder Register (Реестр заинтересованных сторон)](https://clck.ru/382NPz)
+- [Change Management Plan (План управления изменениями)](https://clck.ru/382MwW)
+- [Cost Management Plan (План управления затратами)](https://clck.ru/382NPz)
+- [Scope Management Plan (План управления объемом работ)](https://clck.ru/382MwW)
+- [Stakeholder Communication Plan (План коммуникации с заинтересованными сторонами)](https://clck.ru/382NPz)
+- [Performance Reports (Отчеты о выполнении)](https://clck.ru/382MwW)
+- [Risk Management Plan (План управления рисками)](https://clck.ru/382NPz)
+- [Human Resource Management Plan (План управления человеческими ресурсами)](https://clck.ru/382MwW)
+- [Project Archive (Архив проекта)](https://clck.ru/382NPz)
+- [Project Closeout Report (Отчет о завершении проекта)](https://clck.ru/382MwW)
 
 ## Твои основные вопросы: 
-<li> <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты?</a> </li>
-<li> <a class="link-7" href="https://clck.ru/382MwW">А что с бизнес-процессом?</a> </li>
+[]() <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты?</a> </li>
+[]() <a class="link-7" href="https://clck.ru/382MwW">А что с бизнес-процессом?</a> </li>
 
 ```mermaid
 sequenceDiagram
