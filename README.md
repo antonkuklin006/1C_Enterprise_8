@@ -11,9 +11,9 @@
 
 <h2> Твои основные дашборды на этапе тестирования, на стороне заказчика: </h2> 
 <h3> 
-    <li> <a class="link-1" href="https://clck.ru/382PaF ">Help desk</a> </li>
-    <li> <a class="link-2" href="https://clck.ru/382PsR"> Ticket system </a> </li>
-    <li> <a class="link-3" href="https://clck.ru/382Qo3">Bug tracker</a> </li>
+    <li> <a class="link-1" href="https://github.com/users/antonkuklin006/projects/2/views/7">Help desk</a> </li>
+    <li> <a class="link-2" href="https://github.com/users/antonkuklin006/projects/2/views/8"> Ticket system </a> </li>
+    <li> <a class="link-3" href="https://github.com/users/antonkuklin006/projects/2/views/9">Bug tracker</a> </li>
 </h3>
 
 <h2> Что должен понимать: </h2> 
