@@ -43,3 +43,17 @@
 <h2> Твои основные вопросы: </h2> 
 <li> <a class="link-6" href="https://clck.ru/382NPz">Важность и приоритеты?</a> </li>
 <li> <a class="link-7" href="https://clck.ru/382MwW">А что с бизнес-процессом?</a> </li>
+
+```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    loop Healthcheck
+        John->>John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts <br/>prevail!
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
