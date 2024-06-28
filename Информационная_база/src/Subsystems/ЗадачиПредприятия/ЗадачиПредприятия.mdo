@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fb8f1da9-1641-4891-ad7d-2964831e8c57">
+  <name>ЗадачиПредприятия</name>
+  <synonym>
+    <key>ru</key>
+    <value>Задачи</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.ОбщаяКартинка2</picture>
+  </picture>
+  <content>Task.Задача</content>
+  <content>DataProcessor.ОбщиеЧаты</content>
+</mdclass:Subsystem>

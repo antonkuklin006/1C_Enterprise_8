@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="17685451-eab4-4278-b89c-7c4e74cf8184">
+  <producedTypes>
+    <objectType typeId="99493567-6a4d-4c80-aec1-733544f0d10b" valueTypeId="a27465a8-e0f8-4e68-978c-0cd3f7ef88ea"/>
+    <refType typeId="77b1753d-acb8-4a0b-bed8-af8153952360" valueTypeId="5f42e58d-91f0-4967-9146-de47282031b8"/>
+    <selectionType typeId="f059065f-f1ad-4bed-85f0-196c37ba4027" valueTypeId="3f9139ea-8876-4853-8365-8658621ed1d7"/>
+    <listType typeId="d2629f00-5ff3-4a9c-9c93-9bb8abeb3dd6" valueTypeId="3b63c694-51df-43c3-9a64-4dbb37bd5cc5"/>
+    <managerType typeId="08bddb04-1e2d-4e69-bf05-c2227c0ade13" valueTypeId="1afe7a63-7719-442c-b9c3-e58fb54a1acf"/>
+  </producedTypes>
+  <name>ОбщиеЧаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общие чаты</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ОбщиеЧаты.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ОбщиеЧаты.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>PredefinedDataName</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Predefined</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>DeletionMark</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>IsFolder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Owner</name>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Parent</name>
+    <fillFromFillingValue>true</fillFromFillingValue>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Description</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Code</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <defaultObjectForm>Catalog.ОбщиеЧаты.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultListForm>Catalog.ОбщиеЧаты.Form.ФормаСписка</defaultListForm>
+  <tabularSections uuid="40d44793-39d5-4501-b73d-e0c9a772c997">
+    <producedTypes>
+      <objectType typeId="90a4bb62-da51-4139-ab48-5ac316bcd631" valueTypeId="fd3daa85-b959-4482-8985-2798c88fd2cf"/>
+      <rowType typeId="6452da59-15c6-4b21-97d6-0dd19898870f" valueTypeId="a9a84e57-0226-470d-9594-e09557d6cd8a"/>
+    </producedTypes>
+    <name>СписокУчастников</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список участников</value>
+    </synonym>
+    <attributes uuid="0229ebe5-dad9-4cab-b7ef-f0ce4885fcc3">
+      <name>УчастникЧата</name>
+      <synonym>
+        <key>ru</key>
+        <value>Участник чата</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Сотрудники</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="47ef7255-0c46-436a-967a-0b9c2b641003">
+      <name>СообщиениеДоствленно</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сообщиение доствленно</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <tabularSections uuid="10083bb9-73d1-49e3-afff-801a5d1da257">
+    <producedTypes>
+      <objectType typeId="e9d984e8-d709-44b8-bf45-d029e19209f8" valueTypeId="97e2510c-5c76-4f67-9a48-6fa412bf89c6"/>
+      <rowType typeId="8d84ca81-f466-4c56-905c-a25015d926e0" valueTypeId="c5f39ac3-aa81-4c48-9547-7de74e2ad63e"/>
+    </producedTypes>
+    <name>Чат</name>
+    <synonym>
+      <key>ru</key>
+      <value>Чат</value>
+    </synonym>
+    <attributes uuid="ca51eb55-3307-437b-b28c-7b401a733ebf">
+      <name>СообщениеОбщийЧат</name>
+      <synonym>
+        <key>ru</key>
+        <value>Сообщение общий чат</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>400</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="d67cb4a4-4738-4ec7-86b7-4c8f3d978034">
+      <name>Отправитель</name>
+      <synonym>
+        <key>ru</key>
+        <value>Отправитель</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>50</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+    <attributes uuid="d2d55c72-ca3f-4710-a238-97342b84c710">
+      <name>ВремяОтправки</name>
+      <synonym>
+        <key>ru</key>
+        <value>Время отправки</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers/>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+  <forms uuid="552c881a-0a99-435a-b237-4453cac37466">
+    <name>ФормаЭлемента</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5ec3bc74-730b-4c67-a2b6-779e48f4c3e0">
+    <name>ФормаСписка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма списка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Catalog>
