@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b705109-80f3-4967-a12a-b003c8ea24b7">
+  <producedTypes>
+    <refType typeId="edcbd9a3-6e3f-4a98-9cbd-76430715e16f" valueTypeId="375d8e78-ec4c-44bb-8ae2-b192afd823dc"/>
+    <listType typeId="efd5296d-4c59-4e60-8f20-5559c9655add" valueTypeId="7869d79d-7810-4544-acdc-96e38e501947"/>
+    <managerType typeId="e8229ec9-049b-4426-a68e-fb52dbce75e8" valueTypeId="816c17bb-7fc2-4e32-8eef-6735b84c102d"/>
+  </producedTypes>
+  <name>ЭтапыОтбора</name>
+  <synonym>
+    <key>ru</key>
+    <value>Этапы отбора</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="3e0ff208-d060-4fe9-836f-9111064b8cb8">
+    <name>ПервыйЭтап</name>
+    <synonym>
+      <key>ru</key>
+      <value>Первый этап</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3507ae65-e0a0-4df7-97d1-05248b591750">
+    <name>ВторойЭтап</name>
+    <synonym>
+      <key>ru</key>
+      <value>Второй этап</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="b5bdc2e2-2a2f-4446-b65f-9007b026af77">
+    <name>ТретийЭтап</name>
+    <synonym>
+      <key>ru</key>
+      <value>Третий этап</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

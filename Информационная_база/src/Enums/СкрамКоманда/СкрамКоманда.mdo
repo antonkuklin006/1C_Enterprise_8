@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="969a3013-62ba-4285-9ed4-adbd0114d256">
+  <producedTypes>
+    <refType typeId="1297d95b-1098-4d47-a14c-572bd2c1e398" valueTypeId="984db048-ce4b-4082-9667-1a0a1137029e"/>
+    <listType typeId="0ad595e1-37fa-4cb6-9f51-a04446f9a3a8" valueTypeId="0657fdfb-e1b0-4304-97a6-ad88e9be193c"/>
+    <managerType typeId="56795b4d-9e3d-48c4-b42d-814f864916b0" valueTypeId="eddb0c62-ca89-4272-b2cb-c23ec39c9b5d"/>
+  </producedTypes>
+  <name>СкрамКоманда</name>
+  <synonym>
+    <key>ru</key>
+    <value>Роль</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="364e6444-4a15-4c2c-9773-bfa0a3250b71">
+    <name>ВладелецПродукта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Product Owner</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="64a42a11-079f-470e-a1a6-05cfb3d894aa">
+    <name>СкрамМастер</name>
+    <synonym>
+      <key>ru</key>
+      <value>Scrum master</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="719c307e-86b1-43bd-bf61-268058b71610">
+    <name>Разработчик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Developer</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<planner:PlannerSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:planner="http://g5.1c.ru/v8/dt/planner/model">
+  <items>
+    <value xsi:type="core:UndefinedValue"/>
+    <begin>2024-06-08T01:00:00</begin>
+    <end>2024-06-08T04:00:00</end>
+    <text>Встреча</text>
+    <font xsi:type="core:AutoFont"/>
+    <replacementDate>0001-01-01T00:00:00</replacementDate>
+    <itemId>1905f496-19bb-4dcb-912b-b1a97c2b0624</itemId>
+  </items>
+  <newItemsTextType>FormattedString</newItemsTextType>
+  <alignItemBoundariesByTimeScale>true</alignItemBoundariesByTimeScale>
+  <showWrappedHeaders>true</showWrappedHeaders>
+  <showWrappedTimeScaleHeaders>true</showWrappedTimeScaleHeaders>
+  <showCurrentDate>true</showCurrentDate>
+  <wrappedTimeScaleHeaderFormat>
+    <key>#</key>
+    <value>DLF=&quot;DD&quot;</value>
+  </wrappedTimeScaleHeaderFormat>
+  <wrappedTimeScaleHeaderFormat>
+    <key>ru</key>
+    <value>DLF=&quot;DD&quot;</value>
+  </wrappedTimeScaleHeaderFormat>
+  <periodicVariantRepetition>1</periodicVariantRepetition>
+  <periodicVariantUnit>Day</periodicVariantUnit>
+  <border xsi:type="core:BorderDef">
+    <style>Single</style>
+    <width>1</width>
+  </border>
+  <font xsi:type="core:AutoFont"/>
+  <beginOfRepresentationPeriod>0001-01-01T00:00:00</beginOfRepresentationPeriod>
+  <endOfRepresentationPeriod>0001-01-01T00:00:00</endOfRepresentationPeriod>
+  <itemsTimeRepresentation>BeginAndEndTime</itemsTimeRepresentation>
+  <timeScale>
+    <levels>
+      <measure>Day</measure>
+      <interval>1</interval>
+      <show>true</show>
+      <line>
+        <width>1</width>
+        <style>Dotted</style>
+      </line>
+      <scaleColor xsi:type="core:ColorDef">
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </scaleColor>
+      <dayFormatRule>MonthDayWeekDay</dayFormatRule>
+      <format>
+        <key>ru</key>
+        <value>ДФ=dddd</value>
+      </format>
+      <labels/>
+      <showPereodicalLabels>true</showPereodicalLabels>
+    </levels>
+    <levels>
+      <measure>Minute</measure>
+      <interval>30</interval>
+      <show>true</show>
+      <line>
+        <width>1</width>
+        <style>Dotted</style>
+      </line>
+      <scaleColor xsi:type="core:ColorDef">
+        <red>192</red>
+        <green>192</green>
+        <blue>192</blue>
+      </scaleColor>
+      <dayFormatRule>MonthDayWeekDay</dayFormatRule>
+      <format>
+        <key>ru</key>
+        <value>ДФ=HH:mm</value>
+      </format>
+      <labels/>
+      <showPereodicalLabels>true</showPereodicalLabels>
+    </levels>
+  </timeScale>
+  <periods>
+    <begin>2024-06-19T00:00:00</begin>
+    <end>2024-06-19T23:59:59</end>
+  </periods>
+  <autoMinColumnWidth>false</autoMinColumnWidth>
+  <autoMinRowHeight>false</autoMinRowHeight>
+  <minColumnWidth>7</minColumnWidth>
+  <minRowHeight>3</minRowHeight>
+</planner:PlannerSettings>

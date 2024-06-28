@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="477f0d04-708d-421c-a97f-4815070700e5">
+  <producedTypes>
+    <refType typeId="5b7f9374-65c0-4cb3-8f27-0276386bea82" valueTypeId="56b0d81b-c8e4-4532-a7ba-c5fcdd489c86"/>
+    <listType typeId="e893ff62-a121-4762-bcce-68210173290a" valueTypeId="101ad632-b651-4308-b831-c29d982682e0"/>
+    <managerType typeId="6b5cb694-7ae7-4326-bec9-fa84c8687110" valueTypeId="fd7e9cbd-d5c7-40fe-88dd-f945200a7760"/>
+  </producedTypes>
+  <name>Отдел</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отдел</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <defaultChoiceForm>Enum.Отдел.Form.ФормаВыбора</defaultChoiceForm>
+  <enumValues uuid="85c0833a-cba8-432b-9bf2-750490e3fdb7">
+    <name>ОтделРазработкиПО</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отдел разработки ПО</value>
+    </synonym>
+  </enumValues>
+  <forms uuid="b71fbd6d-5fa8-420b-813c-0ddde37fcac5">
+    <name>ФормаВыбора</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма выбора</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:Enum>
