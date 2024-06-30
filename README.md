@@ -112,5 +112,4 @@ gantt
 ![21_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/85bd56a9-d877-493a-9f63-4cf3e9fc2eae)
 ![22_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/6e7b8f30-678c-46c1-97c3-e0d042efc048)
 ![23_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/bf385530-fb12-40e4-b7cf-1f68a076a13f)
-![24_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/11ec2d10-6965-4288-bec5-05eefe319e3a)
-![25_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/8105ff3d-dbea-4e23-aead-b26c00228275)
+![24_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/8105ff3d-dbea-4e23-aead-b26c00228275)
