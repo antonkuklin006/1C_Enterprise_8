@@ -96,4 +96,4 @@ gantt
 ## Описание/мануал релиза [v1.0.0-beta](https://github.com/antonkuklin006/1C_Enterprise_8/releases/tag/Beta):
 ![1_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/0ba36d67-0c7f-4808-9fa1-b5d6a7f8cac0)
 ![2_page](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/0299cb5a-6a65-45e5-a169-80305c0d62f8)
-- Для полного ознакомления и получения исходников для конфигуратора перейдите по ссылке [клик](https://github.com/antonkuklin006/1C_Enterprise_8/releases/tag/Beta]
+- Для полного ознакомления и получения исходников для конфигуратора перейдите по ссылке [клик](https://github.com/antonkuklin006/1C_Enterprise_8/releases/tag/Beta)
