@@ -1,4 +1,4 @@
-[Исходные файлы в формете .dt в assets к релизу или перейдите по ссылке и в самом низу (https://github.com/antonkuklin006/1C_Enterprise_8/releases/tag/Beta)
+[Исходные файлы в формете .dt в assets к релизу или перейдите по ссылке и в самом низу](https://github.com/antonkuklin006/1C_Enterprise_8/releases/tag/Beta)
    
 
 ![kanban](https://github.com/antonkuklin006/1C_Enterprise_8/assets/81790108/25ab5ea9-4d96-4048-b57d-d058e0f46c43)
